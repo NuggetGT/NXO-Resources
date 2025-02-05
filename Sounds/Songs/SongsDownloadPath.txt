@@ -1,6 +1,3 @@
-La Passion;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Songs/La%20Passion.mp3
-Its Darius Day;mp3url
-SIGMA SIGMA BOY;mp3url
 Von Anti Piracy;mp3url
 Celebrate Our Differences;mp3url
 Cave Wave;mp3url
