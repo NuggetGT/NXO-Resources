@@ -1,4 +1,4 @@
-Von Anti Piracy;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Songs/VonAntiPiracySongmp3.mp3
+Von Anti Piracy;
 Celebrate Our Differences;mp3url
 Cave Wave;mp3url
 Crab Rave;mp3url
