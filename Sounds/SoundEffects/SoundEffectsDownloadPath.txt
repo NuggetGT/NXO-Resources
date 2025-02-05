@@ -1,14 +1,70 @@
-Daisy Bell;mp3url
-RUN RUN RUN;mp3url
-PBBV;mp3url
-WARNING;mp3url
-SCP 096 Scream;mp3url
-SCP 096 Cry;mp3url
-Tiptoe;mp3url
-Banshee;mp3url
-Freddy Scream;mp3url
-Balloon Boy Hello;mp3url
-Balloon Boy Hi;mp3url
-Balloon Boy Laugh;mp3url
-Sonic.exe Laugh;mp3url
-Scream;mp3url
+UwU;mp3url
+Vine Boom;mp3url
+Fart;mp3url
+Diarrhea;mp3url
+GET OUT!;mp3url
+SHUT UP!;mp3url
+Electricity Short Circuit;mp3url
+Nick Eh 30 Intro;mp3url
+English Or Spanish;mp3url
+Fuck You Kid Your Adopted;mp3url
+Locked In Alien;mp3url
+Locked In Ninja;mp3url
+Low Taper Fade AliA;mp3url
+Do Me A Favor Stfu;mp3url
+Meme Spam;mp3url
+YOU STUPID NI-;mp3url
+YIPPEE!;mp3url
+AMOGUS!;mp3url
+Half Life Button;mp3url
+Cinematic Boom;mp3url
+Rising Tension;mp3url
+Base Drop;mp3url
+Base Impact;mp3url
+Trumpet Fail;mp3url
+We Do Not Care;mp3url
+YAMATE KUDASAI!;mp3url
+OG Roblox Death;mp3url
+New Roblox Death;mp3url
+OG Minecraft OUH!;mp3url
+Garrys Mod Death;mp3url
+Ah Shi Here We Go Again;mp3url
+SLAP;mp3url
+Short AUGH;mp3url
+Long AUGH;mp3url
+TACTICAL NUKE INCOMING!;mp3url
+Bomb Has Been Planted;mp3url
+Red Light!;mp3url
+Green Light!;mp3url
+Squid Game Doll Singing;mp3url
+IVE PLAYED THESE GAMES BEFORE!;mp3url
+The Prowler;mp3url
+Audience Clap;mp3url
+Audience Laugh;mp3url
+Audience Gasp;mp3url
+Audience Cheer;mp3url
+Wanna Break From The Ads?;mp3url
+Gadagadigadagado!;mp3url
+Pistol Shot;mp3url
+Shotgun Shot;mp3url
+Frag Out;mp3url
+WTF BOOM!;mp3url
+Darius Stimming;mp3url
+Bonk;mp3url
+HeHe Boy;mp3url
+Windows USB;mp3url
+Windows Error;mp3url
+Windows Ding;mp3url
+Windows Ding;mp3url
+Metal Pipe Falling;mp3url
+Metal Pipe Falling;mp3url
+Rizz;mp3url
+FBI OPEN UP!;mp3url
+Emotional Damage!;mp3url
+Taco Bell;mp3url
+Ben No;mp3url
+Ben Yes;mp3url
+Ben Laugh;mp3url
+Bing Chilling;mp3url
+HE HE HE HA!;mp3url
+HOG RIDER!;mp3url
