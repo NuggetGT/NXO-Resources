@@ -1,4 +1,4 @@
-Darius Gyat Gyat Gyat;https://us-tuna-sounds-files.voicemod.net/fdfd2757-d4ae-472c-9b63-17162b688132-1733494906334.mp3
+Darius Gyat Gyat Gyat;mp3url
 UwU;mp3url
 Vine Boom;mp3url
 Fart;mp3url
@@ -15,6 +15,9 @@ Low Taper Fade AliA;mp3url
 Do Me A Favor Stfu;mp3url
 Meme Spam;mp3url
 YOU STUPID NI-;mp3url
+La Passion;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Songs/La%20Passion.mp3
+Its Darius Day;mp3url
+SIGMA SIGMA BOY;mp3url
 YIPPEE!;mp3url
 AMOGUS!;mp3url
 Half Life Button;mp3url
