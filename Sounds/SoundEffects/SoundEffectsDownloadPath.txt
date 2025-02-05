@@ -14,7 +14,7 @@ Locked In Ninja;mp3url
 Low Taper Fade AliA;mp3url
 Do Me A Favor Stfu;mp3url
 Meme Spam;mp3url
-YOU STUPID NI-;mp3url
+YOU STUPID NI-;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/PeterGriffinYOUSTUPIDNI.mp3
 La Passion;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/La%20Passion.mp3
 Its Darius Day;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/SoundEffects/ItsDariusDay.mp3
 SIGMA SIGMA BOY;mp3url
