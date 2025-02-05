@@ -1,4 +1,4 @@
-La Passion;mp3url
+La Passion;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Songs/La%20Passion.mp3
 Its Darius Day;mp3url
 SIGMA BOY SIGMA BOY;mp3url
 Von Anti Piracy;mp3url
