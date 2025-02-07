@@ -2,8 +2,7 @@ Daisy Bell;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/
 RUN RUN RUN;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/gorilla-tag-run-_-scary!!!-_-run!!!-_-made-with-Voicemod.mp3
 PBBV;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/pbbv-is-here.-made-with-Voicemod.mp3
 WARNING;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/warning-bot-(gorilla-tag)-made-with-Voicemod.mp3
-SCP 096 Scream;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/new-scp-096-scream-made-with-Voicemod.mp3
-SCP 096 Cry;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/scp-096-crying-sound-effect-made-with-Voicemod.mp3
+SCP 096;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/Scp%20096%20sounds%20(remastered%20screams%20higher%20quality).mp3
 Tiptoe;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/tiptoe-slowed-made-with-Voicemod.mp3
 Banshee;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/banshee-troll-gorilla-tag-made-with-Voicemod.mp3
 Freddy Scream;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/freddy-scream-made-with-Voicemod.mp3
