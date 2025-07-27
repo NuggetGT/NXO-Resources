@@ -8,6 +8,6 @@ Banshee;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Tro
 Freddy Scream;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/freddy-scream-made-with-Voicemod.mp3
 Balloon Boy Hello;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/balloon-boy---hello-made-with-Voicemod%20(1).mp3
 Balloon Boy Hi;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/hi---balloon-boy-made-with-Voicemod.mp3
-Balloon Boy Laugh;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/balloon-boy's-laugh-made-with-Voicemod.mp3
+Balloon Boy Laugh;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/homeboy-bb-laugh-made-with-Voicemod.mp3
 Sonic.exe Laugh;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/sonic.exe-original-laugh-made-with-Voicemod.mp3
 Scream;https://github.com/NuggetGT/NXO-Resources/raw/refs/heads/main/Sounds/Trolling/scream-made-with-Voicemod.mp3
