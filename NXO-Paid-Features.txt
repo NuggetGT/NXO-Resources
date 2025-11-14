@@ -1,0 +1,322 @@
+NXO Paid Features List
+Latest Version: v1.0 Beta
+
+Settings:
+General Settings:
+
+Load Preferences
+Save Preferences
+Menu Settings
+Mod Settings
+Gun Settings
+
+Menu Settings:
+
+Switch Hands
+Menu Theme (Shader Theme Changer)
+Menu Font (Cycle Font)
+Open & Close Sound
+Click Sound (Change Sound)
+Outline Menu
+Toggle Notifications
+Room Notifications
+Room Notifications Sound
+Clear Notifications
+Disable All Mods
+
+Mod Settings:
+
+Long Arms Length (Adjustable)
+Platform Type (Cycle)
+Flight Speed (Adjustable)
+Speed Boost (Adjustable)
+Wall Walk Strength (Adjustable)
+Grip To Speedboost
+Noclip Fly
+Trigger Platforms
+Tracer Position (Adjustable)
+FPC FOV (Adjustable)
+Team Checked ESP
+
+Gun Settings:
+
+Animated Guns
+Big Gun Pointer
+Gun Line
+
+
+Safety Mods:
+
+Anti Report
+Join Random Anti Report
+Reconnect Anti Report
+Anti Moderator
+Fake Quest Menu (A)
+Fake Lag (A)
+No Finger Movement
+Disable Quit Box
+
+
+Room Mods:
+
+Quit Game
+Disconnect
+Reconnect
+Join Random
+Disable Network Triggers
+Grab All IDs
+Grab Self ID
+Dump All RPCs
+US Servers
+USW Servers
+EU Servers
+Unlock Competitive
+
+
+Player Mods:
+
+Ghost Monke (A)
+Invisible Monke (A)
+Ghost & Invisibility (A/B)
+Freeze Rig (A)
+Grab Rig (RG/LG)
+Long Arms
+Griddy (RT)
+Size Change (LT/RT/CS)
+Networked Size Change (LT/RT)
+Helicopter Monke (RT)
+Ascend Monke (RT)
+Rec Room Movement
+Spaz Monke
+Spaz Arms (RT)
+T-Pose (RT)
+Spin Head
+Flip Head
+Backwards Head
+Snap Neck
+Rig Gun
+Teleport Gun
+Chase Gun
+Orbit Gun
+Jumpscare Gun
+Copy Player Gun
+Backshot Player Gun
+Piggyback Player Gun
+
+
+Movement Mods:
+
+Flight (B)
+Platforms (RG/LG)
+Frozone (RG/LG)
+Speed Boost
+Noclip (RT)
+Wall Walk (RG/LG)
+Spider Walk (RG/LG)
+Pull Mod
+Accel Flight (B)
+Up And Down (LT/RT)
+WASD Movement
+Freecam (LJ)
+Funny Run (RG/LG)
+Flick Jump (B)
+Bunny Hop (RG)
+Uncap Max Velocity
+Rewind Time (LT/RT)
+Swim Speed Boost
+Dash Monke (A)
+Checkpoint (RG/RT)
+Slide Control
+Anti Slip
+Slippy Hands
+No Tag Freeze
+Force Tag Freeze
+
+
+Tag Mods:
+
+Tag All (RT)
+Tag Gun
+Flick Tag (RT)
+Tag Aura
+Tag Self
+Un-Tag Self
+Anti Tag
+No Tag On Join
+
+
+Visual Mods:
+
+3D Box ESP
+2D Box ESP
+Tracers ESP
+Skeleton ESP
+Chams ESP
+Trails ESP
+Beacons ESP
+Name Tags
+First Person
+FPS Boost
+Fuck Colors
+Acid Trip
+
+
+Audio:
+Soundboard:
+
+Load Soundboard
+Disable All Sounds
+Loop Sounds
+Sound Input (Cycle Controller Bind)
+SFX (Sounds have to be loaded)
+Trolling (Sounds have to be loaded)
+Songs (Sounds have to be loaded)
+
+Sound Spams:
+
+Random Sound Spam (RT)
+Annoying Sound Spam (RT)
+Boop Player
+Slap Player
+Glass Sound Spam (RT)
+Metal Sound Spam (RT)
+Pop Sound Spam (RT)
+Squeaky Sound Spam (RT)
+Crystal Sound Spam (RT)
+Turkey Sound Spam (RT)
+Frog Sound Spam (RT)
+AK-47 Sound Spam (RT)
+Wolf Sound Spam (RT)
+Cat Sound Spam (RT)
+Bee Sound Spam (RT)
+
+
+World Mods:
+General:
+
+Change Time
+Anti Gravity
+Low Gravity
+High Gravity
+Reverse Gravity
+Disable Rain
+Rain Mode
+Mute Elevator
+
+Water:
+
+Solid Water
+Disable Water
+Air Swim
+Water Bender (RG/LG)
+Splash Gun
+Water Barrage (RT)
+Splash Aura (RT)
+Splash Self (RT)
+
+Glider:
+
+Grab Gliders (RG)
+Orbit Gliders (RT)
+Spaz Gliders (RT)
+Glider Gun
+Glider Speedboost
+Slowmo Gliders
+
+Entity:
+
+Become Bug (A)
+Grab Bug (RG)
+Bug Gun
+Bug Orbit
+Become Bat (A)
+Grab Bat (RG)
+Bat Gun
+Bat Orbit
+Become Ball (A)
+Grab Ball (RG)
+Ball Gun
+Ball Orbit
+
+Projectile:
+
+Big Snowballs
+Spawn Projectile Type (Cycle)
+Spawn Projectile
+
+
+Cosmetics:
+Body Cosmetics:
+
+Unreleased Sweater
+Drumset
+Box Body
+Penguin Suit
+Muscular Body (1)
+Muscular Body (2)
+Flamingo Floaty
+Duck Floaty
+Mermaid
+Santa Body
+Snowman
+Cozy Sweater
+Gorilla Tag Shirt
+I <3 GT Shirt
+Black Tuxedo
+White Tuxedo
+Knight Suit
+Orange Jacket
+Music Shirt
+DJ Set
+Xylophone
+
+Hand Cosmetics:
+
+Gloves (1-4)
+Wolf Claws
+Goblin Hands
+Knight Gloves
+Rubber Gloves
+
+Badges:
+
+Admin Badge
+Illustrator Badge
+Finger Painter Badge
+Early Access Badge
+
+
+Miscellaneous:
+
+Displacer Cannon
+Jet Pack
+Web Shooters (RG/LG)
+Web Shooters v2 (RG/LG)
+Draw Mod (RG/LG)
+Place Bomb (RG/RT)
+Punch Mod
+Loud Hand Taps
+Silent Hand Taps
+
+
+Overpowered Mods:
+
+Lag All
+Lag Gun
+Touch To Lag
+Get Touched To Lag
+Lag Spike All
+Lag Spike Gun
+Touch To Lag Spike
+Get Touched To Lag Spike
+Freeze Frame All
+Freeze Frame Gun
+Touch To Freeze Frame
+Get Touched To Freeze Frame
+
+
+Admin Mods: showing this so people dont think its anything harmful
+
+Fling NXO Users
+Crash All NXO Users
+Freeze All NXO Users
