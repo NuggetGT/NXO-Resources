@@ -305,14 +305,6 @@ Lag All
 Lag Gun
 Touch To Lag
 Get Touched To Lag
-Lag Spike All
-Lag Spike Gun
-Touch To Lag Spike
-Get Touched To Lag Spike
-Freeze Frame All
-Freeze Frame Gun
-Touch To Freeze Frame
-Get Touched To Freeze Frame
 
 
 Admin Mods: showing this so people dont think its anything harmful
@@ -320,3 +312,4 @@ Admin Mods: showing this so people dont think its anything harmful
 Fling NXO Users
 Crash All NXO Users
 Freeze All NXO Users
+
