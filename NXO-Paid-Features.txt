@@ -1,5 +1,5 @@
 NXO Paid Features List
-Latest Version: v2.0 
+Latest Version: v2
 
 Settings:
 General Settings:
@@ -16,6 +16,7 @@ Menu Settings:
 - Open & Close Sound
 - Click Sound (Change Sound)
 - Outline Menu
+- Toggle Array List
 - Toggle Notifications
 - Room Notifications
 - Room Notifications Sound
@@ -309,10 +310,8 @@ Overpowered Mods:
 - Touch To Barrel Fling [V1]
 - Barrel Fling Gun [V2]
 - Touch To Barrel Fling [V2]
-- Snowball Effect All
 - Snowball Effect Gun
 - Touch To Snowball Effect
-- Get Touched To Snowball Effect
 - Lock Room
 - Unlock Room
 - Slow All (M)
