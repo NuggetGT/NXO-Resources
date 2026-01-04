@@ -1,5 +1,5 @@
 NXO Paid Features List
-Latest Version: v2
+Latest Version: v2.1
 
 Settings:
 General Settings:
@@ -16,6 +16,7 @@ Menu Settings:
 - Open & Close Sound
 - Click Sound (Change Sound)
 - Outline Menu
+- Sharp Corners
 - Toggle Array List
 - Toggle Notifications
 - Room Notifications
@@ -41,18 +42,20 @@ Gun Settings:
 - Big Gun Pointer
 - Gun Line
 
-
 Safety Mods:
 - Anti Report
 - Join Random Anti Report
 - Reconnect Anti Report
+- Name Spoof
+- Color Spoof
 - Anti Moderator
 - Fake Quest Menu (A)
 - Accept TOS
+- Bypass K-ID
+- Flush RPCs
 - Fake Lag (A)
 - No Finger Movement
 - Disable Quit Box
-
 
 Room Mods:
 - Quit Game
@@ -61,13 +64,12 @@ Room Mods:
 - Join Random
 - Disable Network Triggers
 - Grab All IDs
-- Grab Self ID
+- Grab Own ID
 - Dump All RPCs
 - US Servers
 - USW Servers
 - EU Servers
 - Unlock Competitive
-
 
 Player Mods:
 - Ghost Monke (A)
@@ -95,8 +97,9 @@ Player Mods:
 - Jumpscare Gun
 - Copy Player Gun
 - Backshot Player Gun
+- BJ Player Gun
 - Piggyback Player Gun
-
+- Stare at Player Gun
 
 Movement Mods:
 - Flight (B)
@@ -113,18 +116,17 @@ Movement Mods:
 - Freecam (LJ)
 - Funny Run (RG/LG)
 - Flick Jump (B)
-- Bunny Hop (RG)
 - Uncap Max Velocity
 - Rewind Time (LT/RT)
 - Swim Speed Boost
 - Dash Monke (A)
 - Checkpoint (RG/RT)
 - Slide Control
+- Slip Slap
 - Anti Slip
 - Slippy Hands
 - No Tag Freeze
 - Force Tag Freeze
-
 
 Tag Mods:
 - Tag All (RT)
@@ -135,7 +137,6 @@ Tag Mods:
 - Un-Tag Self
 - Anti Tag
 - No Tag On Join
-
 
 Visual Mods:
 - 3D Box ESP
@@ -149,8 +150,10 @@ Visual Mods:
 - Name Tags
 - First Person
 - FPS Boost
+- X-Ray
 - Fuck Colors
 - Acid Trip
+- Trippy Monkes
 - 90 FPS
 - 72 FPS
 - 60 FPS
@@ -158,7 +161,6 @@ Visual Mods:
 - 30 FPS
 - 15 FPS
 - Uncap FPS
-
 
 Audio:
 Soundboard:
@@ -176,6 +178,9 @@ Sound Spams:
 - Boop Player
 - Gong Player
 - Slap Player
+- Jman HELLO! Sound Spam (RT)
+- Jman Slap Sound Spam (RT)
+- Jman Okay Sound Spam (RT)
 - Glass Sound Spam (RT)
 - Metal Sound Spam (RT)
 - Pop Sound Spam (RT)
@@ -195,17 +200,24 @@ Microphone:
 - Mute Mic
 - Fix Mic
 
-
-World Mods:
+Miscellaneous Mods:
 General:
+- Displacer Cannon
+- Jet Pack
+- Web Shooters (RG/LG)
+- Web Shooters v2 (RG/LG)
+- Try Cosmetics Anywhere
+- Draw Mod (RG/LG)
+- Place Bomb (RG/RT)
+- Punch Mod
+- Telekinesis
+- Loud Hand Taps
+- Silent Hand Taps
 - Change Time
-- Anti Gravity
-- Low Gravity
-- High Gravity
-- Reverse Gravity
 - Disable Rain
 - Rain Mode
 - Mute Elevator
+- Disable Wind Barriers
 - Spawn Projectile Type (Cycle)
 - Spawn Projectile
 
@@ -224,8 +236,10 @@ Glider:
 - Orbit Gliders (RT)
 - Spaz Gliders (RT)
 - Glider Gun
-- Glider Speedboost
+- Fast Gliders
 - Slowmo Gliders
+- Destroy Gliders
+- Respawn Gliders
 
 Entity:
 - Become Bug (A)
@@ -236,7 +250,6 @@ Entity:
 - Grab Bat (RG)
 - Bat Gun
 - Bat Orbit
-
 
 Cosmetics:
 Body Cosmetics:
@@ -278,54 +291,29 @@ Badges:
 - Finger Painter Badge
 - Early Access Badge
 
-
-Miscellaneous:
-- Displacer Cannon
-- Jet Pack
-- Web Shooters (RG/LG)
-- Web Shooters v2 (RG/LG)
-- Draw Mod (RG/LG)
-- Place Bomb (RG/RT)
-- Punch Mod
-- Loud Hand Taps
-- Silent Hand Taps
-
-
 Overpowered Mods:
-- Delay-Ban Gun
-- Freeze All (OP!)
-- Stutter All
-- Stutter Gun
-- Touch To Stutter
-- Get Touched To Stutter
-- Lag All
-- Lag Gun
-- Touch To Lag
-- Get Touched To Lag
-- Harder Lag All
-- Harder Lag Gun
-- Touch To Harder Lag
-- Get Touched To Harder Lag
-- Barrel Fling Gun [V1]
-- Touch To Barrel Fling [V1]
-- Barrel Fling Gun [V2]
-- Touch To Barrel Fling [V2]
+- Instant Freeze All (RT)
+- Regular Lag All (RT)
+- Regular Lag Gun
+- Touch To Regular Lag
+- Get Touched To Regular Lag
+- Freeze Lag All (RT)
+- Freeze Lag Gun
+- Touch To Freeze Lag
+- Get Touched To Freeze Lag
+- Delay-Ban Gun (W)
+- Barrel Fling Gun (v1)
+- Touch To Barrel Fling (v1)
+- Barrel Fling Gun (v2)
+- Touch To Barrel Fling (v2)
 - Snowball Effect Gun
 - Touch To Snowball Effect
-- Lock Room
-- Unlock Room
+- Glider Blind All (RT)
+- Glider Blind Gun
 - Slow All (M)
 - Slow Gun (M)
 - Vibrate All (M)
 - Vibrate Gun (M)
-
-
-Admin Mods:
-(Admin access required - showing this so people don't think it's anything harmful)
-- Fling NXO Users
-- Crash All NXO Users
-- Freeze All NXO Users
-
 
 Menu Navigation Features:
 - Enabled Mods (View all currently active mods)
