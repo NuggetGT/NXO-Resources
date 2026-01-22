@@ -1,5 +1,5 @@
 NXO Paid Features List
-Latest Version: v2.1
+Latest Version: v3.0
 
 Settings:
 General Settings:
@@ -15,8 +15,8 @@ Menu Settings:
 - Menu Font (Cycle Font)
 - Open & Close Sound
 - Click Sound (Change Sound)
-- Outline Menu
 - Sharp Corners
+- Animate Title
 - Toggle Array List
 - Toggle Notifications
 - Room Notifications
@@ -43,18 +43,18 @@ Gun Settings:
 - Gun Line
 
 Safety Mods:
+- Anti Report Radius (Adjustable)
 - Anti Report
 - Join Random Anti Report
 - Reconnect Anti Report
 - Name Spoof
 - Color Spoof
+- Bypass Mod Checkers
+- Bypass Automod
 - Anti Moderator
-- Fake Quest Menu (A)
 - Accept TOS
 - Bypass K-ID
-- Flush RPCs
 - Fake Lag (A)
-- No Finger Movement
 - Disable Quit Box
 
 Room Mods:
@@ -65,7 +65,6 @@ Room Mods:
 - Disable Network Triggers
 - Grab All IDs
 - Grab Own ID
-- Dump All RPCs
 - US Servers
 - USW Servers
 - EU Servers
@@ -77,8 +76,10 @@ Player Mods:
 - Ghost & Invisibility (A/B)
 - Freeze Rig (A)
 - Grab Rig (RG/LG)
+- Long Arms Length (Adjustable)
 - Long Arms
 - Griddy (RT)
+- Dance Monke (RT)
 - Size Change (LT/RT/CS)
 - Networked Size Change (LT/RT)
 - Helicopter Monke (RT)
@@ -102,11 +103,17 @@ Player Mods:
 - Stare at Player Gun
 
 Movement Mods:
+- Flight Speed (Adjustable)
+- Apply Noclip To Fly
 - Flight (B)
+- Platform Type (Cycle)
+- Use Triggers For Platforms
 - Platforms (RG/LG)
 - Frozone (RG/LG)
+- Use Grip For Speedboost
 - Speed Boost
 - Noclip (RT)
+- Wall Walk Strength (Adjustable)
 - Wall Walk (RG/LG)
 - Spider Walk (RG/LG)
 - Pull Mod
@@ -128,7 +135,7 @@ Movement Mods:
 - No Tag Freeze
 - Force Tag Freeze
 
-Tag Mods:
+Advantage Mods:
 - Tag All (RT)
 - Tag Gun
 - Flick Tag (RT)
@@ -137,18 +144,26 @@ Tag Mods:
 - Un-Tag Self
 - Anti Tag
 - No Tag On Join
+- No Tag Limit
+- Always Guardian
+- Guardian Grab All (RG)
+- Guardian Release All (RT)
 
 Visual Mods:
+- Team Checked ESP
 - 3D Box ESP
 - 2D Box ESP
+- Tracer Position (Adjustable)
 - Tracers ESP
+- Predict
 - Bone ESP
 - Skeleton ESP
 - Chams ESP
 - Trails ESP
 - Beacons ESP
 - Name Tags
-- First Person
+- FPC FOV (Adjustable)
+- First Person Camera
 - FPS Boost
 - X-Ray
 - Fuck Colors
@@ -164,6 +179,7 @@ Visual Mods:
 
 Audio:
 Soundboard:
+- Enter Soundboard
 - Load Soundboard
 - Disable All Sounds
 - Loop Sounds
@@ -171,6 +187,19 @@ Soundboard:
 - SFX (Sounds have to be loaded)
 - Trolling (Sounds have to be loaded)
 - Songs (Sounds have to be loaded)
+
+Microphone:
+- Reload Microphone
+- Hear Self
+- High Quality Microphone
+- Low Quality Microphone
+- Loud Microphone
+- Mute Microphone
+- High Pitch Microphone
+- Low Pitch Microphone
+- Echo Microphone
+- Static Microphone
+- Muffled Microphone
 
 Sound Spams:
 - Random Sound Spam (RT)
@@ -193,14 +222,7 @@ Sound Spams:
 - Cat Sound Spam (RT)
 - Bee Sound Spam (RT)
 
-Microphone:
-- High Quality Mic
-- Low Quality Mic
-- Loud Mic
-- Mute Mic
-- Fix Mic
-
-Miscellaneous Mods:
+Fun Mods:
 General:
 - Displacer Cannon
 - Jet Pack
@@ -210,16 +232,19 @@ General:
 - Draw Mod (RG/LG)
 - Place Bomb (RG/RT)
 - Punch Mod
-- Telekinesis
 - Loud Hand Taps
 - Silent Hand Taps
+- Instant Hand Taps
 - Change Time
 - Disable Rain
 - Rain Mode
 - Mute Elevator
 - Disable Wind Barriers
-- Spawn Projectile Type (Cycle)
-- Spawn Projectile
+- Complete All Quests
+- Unlock All Gadgets
+- Spam Bracelet (G)
+- Remove Bracelets
+- Max Quest Score
 
 Water:
 - Solid Water
@@ -240,6 +265,8 @@ Glider:
 - Slowmo Gliders
 - Destroy Gliders
 - Respawn Gliders
+- Glider Annoy All (RT)
+- Glider Annoy Gun
 
 Entity:
 - Become Bug (A)
@@ -251,69 +278,62 @@ Entity:
 - Bat Gun
 - Bat Orbit
 
-Cosmetics:
-Body Cosmetics:
-- Unreleased Sweater
-- Drumset
-- Box Body
-- Penguin Suit
-- Muscular Body (1)
-- Muscular Body (2)
-- Flamingo Floaty
-- Duck Floaty
-- Mermaid
-- Santa Body
-- Snowman
-- Cozy Sweater
-- Gorilla Tag Shirt
-- I <3 GT Shirt
-- Black Tuxedo
-- White Tuxedo
-- Knight Suit
-- Orange Jacket
-- Music Shirt
-- DJ Set
-- Xylophone
+Hoverboard:
+- Black Screen Gun
+- Strobe Screen Gun
+- Rainbow Screen Gun
+- Spawn Hoverboard
+- Shoot Hoverboards (RG)
+- Orbit Hoverboards
+- Hoverboard Gun
 
-Hand Cosmetics:
-- Gloves (1)
-- Gloves (2)
-- Gloves (3)
-- Gloves (4)
-- Wolf Claws
-- Goblin Hands
-- Knight Gloves
-- Rubber Gloves
-
-Badges:
-- Admin Badge
-- Illustrator Badge
-- Finger Painter Badge
-- Early Access Badge
+Projectiles:
+- Projectile Size (Adjustable)
+- Projectile Speed (Adjustable)
+- Anti Knockback
+- Shoot Projectiles
+- Spread Projectiles
+- Projectile Gun
+- Projectile Fling Gun
+- Projectile Fling All
+- Snowball Effect Gun
+- Touch to Snowball Effect
 
 Overpowered Mods:
+- SI Kick Master
 - Instant Freeze All (RT)
 - Regular Lag All (RT)
 - Regular Lag Gun
 - Touch To Regular Lag
 - Get Touched To Regular Lag
+- Stutter Lag All (RT)
+- Stutter Lag Gun
+- Touch To Stutter Lag
+- Get Touched To Stutter Lag
 - Freeze Lag All (RT)
 - Freeze Lag Gun
 - Touch To Freeze Lag
 - Get Touched To Freeze Lag
-- Delay-Ban Gun (W)
+- Delay-Ban Gun
+- Fling On Grab
+- Crash Modders On Grab
+- Fling To Point On Grab
 - Barrel Fling Gun (v1)
 - Touch To Barrel Fling (v1)
 - Barrel Fling Gun (v2)
 - Touch To Barrel Fling (v2)
-- Snowball Effect Gun
-- Touch To Snowball Effect
-- Glider Blind All (RT)
-- Glider Blind Gun
+- Party Kick All
+- Lock Room
+- Unlock Room
 - Slow All (M)
 - Slow Gun (M)
 - Vibrate All (M)
 - Vibrate Gun (M)
+- Material All (M)
+- Material Gun (M)
+- Touch To Material (M)
+- Untag All (M)
+- Untag Gun (M)
 
 Menu Navigation Features:
 - Enabled Mods (View all currently active mods)
