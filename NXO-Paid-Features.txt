@@ -1,15 +1,11 @@
 NXO Paid Features List
 Latest Version: v3.0
+Categories: 14 | Total Features: 320+
 
 Settings:
-General Settings:
-- Load Preferences
-- Save Preferences
-- Menu Settings
-- Mod Settings
-- Gun Settings
-
 Menu Settings:
+- Save Preferences
+- Load Preferences
 - Switch Hands
 - Menu Theme (Shader Theme Changer)
 - Menu Font (Cycle Font)
@@ -24,23 +20,11 @@ Menu Settings:
 - Clear Notifications
 - Disable All Mods
 
-Mod Settings:
-- Long Arms Length (Adjustable)
-- Platform Type (Cycle)
-- Flight Speed (Adjustable)
-- Speed Boost (Adjustable)
-- Wall Walk Strength (Adjustable)
-- Grip To Speedboost
-- Noclip Fly
-- Trigger Platforms
-- Tracer Position (Adjustable)
-- FPC FOV (Adjustable)
-- Team Checked ESP
-
 Gun Settings:
 - Animated Guns
 - Big Gun Pointer
 - Gun Line
+- Gradient Gun Line
 
 Safety Mods:
 - Anti Report Radius (Adjustable)
@@ -70,7 +54,7 @@ Room Mods:
 - EU Servers
 - Unlock Competitive
 
-Player Mods:
+VRRig Mods:
 - Ghost Monke (A)
 - Invisible Monke (A)
 - Ghost & Invisibility (A/B)
@@ -85,18 +69,19 @@ Player Mods:
 - Helicopter Monke (RT)
 - Ascend Monke (RT)
 - Spaz Monke
-- Spaz Arms (RT)
 - T-Pose (RT)
 - Spin Head
-- Flip Head
+- Upside Head
 - Backwards Head
-- Snap Neck
+- Snap Neck (Left)
+- Snap Neck (Right)
 - Rig Gun
 - Teleport Gun
 - Chase Gun
 - Orbit Gun
 - Jumpscare Gun
 - Copy Player Gun
+- Mirror Player Gun
 - Backshot Player Gun
 - BJ Player Gun
 - Piggyback Player Gun
@@ -104,12 +89,12 @@ Player Mods:
 
 Movement Mods:
 - Flight Speed (Adjustable)
-- Apply Noclip To Fly
 - Flight (B)
 - Platform Type (Cycle)
 - Use Triggers For Platforms
 - Platforms (RG/LG)
 - Frozone (RG/LG)
+- Boost Speed (Adjustable)
 - Use Grip For Speedboost
 - Speed Boost
 - Noclip (RT)
@@ -129,39 +114,73 @@ Movement Mods:
 - Dash Monke (A)
 - Checkpoint (RG/RT)
 - Slide Control
-- Slip Slap
 - Anti Slip
 - Slippy Hands
 - No Tag Freeze
 - Force Tag Freeze
 
-Advantage Mods:
+Gamemode Mods:
+Tag:
 - Tag All (RT)
 - Tag Gun
 - Flick Tag (RT)
-- Tag Aura
+- Tag Aura (RT)
 - Tag Self
 - Un-Tag Self
 - Anti Tag
 - No Tag On Join
 - No Tag Limit
-- Always Guardian
+- Untag All (M)
+- Untag Gun (M)
+
+Guardian:
+- Auto Guardian
 - Guardian Grab All (RG)
 - Guardian Release All (RT)
+- Guardian Orbit All (RT)
+- Guardian Fling All (RT)
+- Guardian Fling Gun
+- Guardian Bring All To Pointer
+- Guardian Self (M)
+- Guardian All (M)
+- Guardian Gun (M)
+- Un-Guardian Self (M)
+- Un-Guardian All (M)
+- Un-Guardian Gun (M)
+
+Paintbrawl:
+- Paintbrawl Aimbot
+- Paintbrawl Kill All
+- Paintbrawl Kill Gun
+- Paintbrawl Kill Self
+- Paintbrawl Godmode (M)
+- Paintbrawl No Delay (M)
+- Paintbrawl Mat All (M)
+- Paintbrawl Mat Gun (M)
+- Paintbrawl End Game (M)
+- Paintbrawl Start Game (M)
+- Paintbrawl Restart Game (M)
+- Paintbrawl Spam Balloon All (M)
+- Paintbrawl Spam Balloon Gun (M)
+- Paintbrawl Spam Balloon Self (M)
+- Paintbrawl Revive All (M)
+- Paintbrawl Revive Gun (M)
+- Paintbrawl Revive Self (M)
 
 Visual Mods:
+- Nametag Type (Cycle)
+- Name Tags
 - Team Checked ESP
 - 3D Box ESP
 - 2D Box ESP
 - Tracer Position (Adjustable)
 - Tracers ESP
-- Predict
+- Prediction ESP
 - Bone ESP
 - Skeleton ESP
 - Chams ESP
 - Trails ESP
 - Beacons ESP
-- Name Tags
 - FPC FOV (Adjustable)
 - First Person Camera
 - FPS Boost
@@ -177,7 +196,7 @@ Visual Mods:
 - 15 FPS
 - Uncap FPS
 
-Audio:
+Audio Mods:
 Soundboard:
 - Enter Soundboard
 - Load Soundboard
@@ -287,41 +306,34 @@ Hoverboard:
 - Orbit Hoverboards
 - Hoverboard Gun
 
-Projectiles:
+Projectile Mods:
+- Snowball Effect Gun
+- Touch to Snowball Effect
 - Projectile Size (Adjustable)
 - Projectile Speed (Adjustable)
 - Anti Knockback
+- Spam Projectiles
 - Shoot Projectiles
 - Spread Projectiles
 - Projectile Gun
-- Projectile Fling Gun
-- Projectile Fling All
-- Snowball Effect Gun
-- Touch to Snowball Effect
 
 Overpowered Mods:
-- SI Kick Master
 - Instant Freeze All (RT)
-- Regular Lag All (RT)
-- Regular Lag Gun
-- Touch To Regular Lag
-- Get Touched To Regular Lag
-- Stutter Lag All (RT)
-- Stutter Lag Gun
-- Touch To Stutter Lag
-- Get Touched To Stutter Lag
-- Freeze Lag All (RT)
-- Freeze Lag Gun
-- Touch To Freeze Lag
-- Get Touched To Freeze Lag
-- Delay-Ban Gun
+- Can Only Hear You Gun
+- Crash All (RT)
+- Crash Gun
+- Touch To Crash
+- Get Touched To Crash
+- Lag Type (Adjustable)
+- Lag All (RT)
+- Lag Gun
+- Touch To Lag
+- Get Touched To Lag
 - Fling On Grab
-- Crash Modders On Grab
+- Attempt Crash On Grab
 - Fling To Point On Grab
-- Barrel Fling Gun (v1)
-- Touch To Barrel Fling (v1)
-- Barrel Fling Gun (v2)
-- Touch To Barrel Fling (v2)
+- Barrel Fling Gun
+- Touch To Barrel Fling
 - Party Kick All
 - Lock Room
 - Unlock Room
@@ -331,9 +343,6 @@ Overpowered Mods:
 - Vibrate Gun (M)
 - Material All (M)
 - Material Gun (M)
-- Touch To Material (M)
-- Untag All (M)
-- Untag Gun (M)
 
 Menu Navigation Features:
 - Enabled Mods (View all currently active mods)
