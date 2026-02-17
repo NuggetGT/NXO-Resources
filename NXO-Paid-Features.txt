@@ -1,41 +1,47 @@
 NXO Paid Features List
-Latest Version: v3.0
-Categories: 14 | Total Features: 320+
+Latest Version: v3.1
+Categories: 16 | Total Features: 350+
 
 Settings:
 Menu Settings:
-- Save Preferences
-- Load Preferences
+- Open NXO Folder
+- Disable All Mods
 - Switch Hands
-- Menu Theme (Shader Theme Changer)
-- Menu Font (Cycle Font)
-- Open & Close Sound
-- Click Sound (Change Sound)
 - Sharp Corners
 - Animate Title
 - Toggle Array List
+- Menu Font (Cycle Font)
+- Outline Theme (Shader Theme Changer)
+- Background Color
+- Custom Outline Color 1
+- Custom Outline Color 2
+- Button Color
+- Enabled Button Color
+- Open & Close Sound
+- Click Sound (Change Sound)
 - Toggle Notifications
 - Room Notifications
 - Room Notifications Sound
 - Clear Notifications
-- Disable All Mods
 
 Gun Settings:
-- Animated Guns
+- Gun Animation (Cycle)
 - Big Gun Pointer
 - Gun Line
-- Gradient Gun Line
 
 Safety Mods:
 - Anti Report Radius (Adjustable)
+- Visualize Anti Report
 - Anti Report
 - Join Random Anti Report
 - Reconnect Anti Report
+- No Finger Movement
 - Name Spoof
 - Color Spoof
 - Bypass Mod Checkers
 - Bypass Automod
 - Anti Moderator
+- Anti Cheat Notifications
 - Accept TOS
 - Bypass K-ID
 - Fake Lag (A)
@@ -102,14 +108,18 @@ Movement Mods:
 - Wall Walk (RG/LG)
 - Spider Walk (RG/LG)
 - Pull Mod
+- Iron Monke (RG/LG)
 - Accel Flight (B)
 - Up And Down (LT/RT)
+- Low Gravity
+- Zero Gravity
+- High Gravity
+- Reverse Gravity
 - WASD Movement
 - Freecam (LJ)
 - Funny Run (RG/LG)
 - Flick Jump (B)
 - Uncap Max Velocity
-- Rewind Time (LT/RT)
 - Swim Speed Boost
 - Dash Monke (A)
 - Checkpoint (RG/RT)
@@ -171,14 +181,17 @@ Visual Mods:
 - Nametag Type (Cycle)
 - Name Tags
 - Team Checked ESP
-- 3D Box ESP
-- 2D Box ESP
+- Unfilled Box ESP
+- Unfilled Box ESP 2D
+- Filled Box ESP
+- Filled Box ESP 2D
 - Tracer Position (Adjustable)
 - Tracers ESP
 - Prediction ESP
 - Bone ESP
 - Skeleton ESP
 - Chams ESP
+- Body Wireframe ESP
 - Trails ESP
 - Beacons ESP
 - FPC FOV (Adjustable)
@@ -188,6 +201,8 @@ Visual Mods:
 - Fuck Colors
 - Acid Trip
 - Trippy Monkes
+- Shiny Monkes
+- Shiny Self
 - 90 FPS
 - 72 FPS
 - 60 FPS
@@ -251,6 +266,9 @@ General:
 - Draw Mod (RG/LG)
 - Place Bomb (RG/RT)
 - Punch Mod
+- Unlock All Cosmetics
+- Unlock All Gadgets
+- Complete All Quests
 - Loud Hand Taps
 - Silent Hand Taps
 - Instant Hand Taps
@@ -259,8 +277,6 @@ General:
 - Rain Mode
 - Mute Elevator
 - Disable Wind Barriers
-- Complete All Quests
-- Unlock All Gadgets
 - Spam Bracelet (G)
 - Remove Bracelets
 - Max Quest Score
@@ -317,32 +333,48 @@ Projectile Mods:
 - Spread Projectiles
 - Projectile Gun
 
+Macros:
+- Open Macros Folder
+- Record Macro (A)
+- Recorded Macros
+
+Presets:
+- Open Presets Folder
+- Save Preset
+- Saved Presets
+
 Overpowered Mods:
-- Instant Freeze All (RT)
-- Can Only Hear You Gun
-- Crash All (RT)
-- Crash Gun
-- Touch To Crash
-- Get Touched To Crash
+- Kick Master
+- Kick Master Gun
+- Instant Freeze All
 - Lag Type (Adjustable)
 - Lag All (RT)
 - Lag Gun
 - Touch To Lag
 - Get Touched To Lag
 - Fling On Grab
-- Attempt Crash On Grab
+- Metro Crash On Grab
 - Fling To Point On Grab
+- Crash Modders On Grab
+- Deafen All
+- Deafen Gun
+- Earrape
 - Barrel Fling Gun
 - Touch To Barrel Fling
 - Party Kick All
 - Lock Room
 - Unlock Room
+- Enable Event (M)
+- Disable Event (M)
+- Spam Event (M)
+- Infinite Event (M)
 - Slow All (M)
 - Slow Gun (M)
 - Vibrate All (M)
 - Vibrate Gun (M)
 - Material All (M)
 - Material Gun (M)
+- Spaz All Targets (M)
 
 Menu Navigation Features:
 - Enabled Mods (View all currently active mods)
