@@ -1,24 +1,45 @@
 NXO Paid Features List
-Latest Version: v3.1
-Categories: 16 | Total Features: 350+
+Latest Version: v5.2
+Categories: 16 | Total Features: 500+
+
+Menu Navigation Features:
+- Enabled Mods (View all currently active mods)
+- Favorited Mods (LG To Favorite - Quick access to favorite mods)
+- Players In Room (Player-specific actions)
+- Search Mods (Search functionality for finding features quickly)
 
 Settings:
 Menu Settings:
 - Open NXO Folder
+- Default Settings
+- Auto Save
+- Panic (X)
 - Disable All Mods
-- Switch Hands
-- Sharp Corners
-- Animate Title
-- Toggle Array List
-- Menu Font (Cycle Font)
-- Outline Theme (Shader Theme Changer)
-- Background Color
-- Custom Outline Color 1
-- Custom Outline Color 2
-- Button Color
-- Enabled Button Color
-- Open & Close Sound
-- Click Sound (Change Sound)
+- Right Hand Menu
+- Mods Array List
+- Open & Close Sounds
+- Dynamic Animations
+- Menu Follows When Searching
+- Overlap Custom Click Sounds
+- Custom Board Colors
+- Menu Font (Cycle)
+- Click Sound (Cycle)
+- Outline (Cycle)
+- Menu Size (Adjustable)
+- Roundness (Adjustable)
+- Opacity (Adjustable)
+- Accent Strip (Adjustable)
+
+Color Settings:
+- Pinwheel
+- Outline
+- Background
+- Buttons
+- Title
+- Boards
+- Accent Strip
+
+Notification Settings:
 - Toggle Notifications
 - Room Notifications
 - Room Notifications Sound
@@ -36,8 +57,12 @@ Safety Mods:
 - Join Random Anti Report
 - Reconnect Anti Report
 - No Finger Movement
+- Change Identity
+- Change Identity On Disconnect
 - Name Spoof
 - Color Spoof
+- Ranked Platform Spoof
+- Ranked Badge Spoof
 - Bypass Mod Checkers
 - Bypass Automod
 - Anti Moderator
@@ -51,51 +76,80 @@ Room Mods:
 - Quit Game
 - Disconnect
 - Reconnect
-- Join Random
+- Join Random Public
+- Create Public
+- Create Private
+- Join Specific Room
 - Disable Network Triggers
 - Grab All IDs
 - Grab Own ID
+- Anti AFK Kick
 - US Servers
 - USW Servers
 - EU Servers
-- Unlock Competitive
+- Queue to Default
+- Queue to Minigames
+- Queue to Competitive
 
 VRRig Mods:
-- Ghost Monke (A)
-- Invisible Monke (A)
+- Ghost Monke (B)
+- Invisible Monke (B)
 - Ghost & Invisibility (A/B)
-- Freeze Rig (A)
-- Grab Rig (RG/LG)
 - Long Arms Length (Adjustable)
 - Long Arms
-- Griddy (RT)
-- Dance Monke (RT)
 - Size Change (LT/RT/CS)
 - Networked Size Change (LT/RT)
-- Helicopter Monke (RT)
-- Ascend Monke (RT)
-- Spaz Monke
-- T-Pose (RT)
 - Spin Head
 - Upside Head
 - Backwards Head
 - Snap Neck (Left)
 - Snap Neck (Right)
-- Rig Gun
+- Freeze Rig (B)
+- Grab Rig (RG/LG)
+- Fake Body Tracking
+- Ragdoll Monke (B)
+- T-Pose (RT)
+- Lay On Back (B)
+- Lay On Stomach (B)
+- Upside Down (RT)
+- Backflip (RT)
+- Frontflip (RT)
+- Cartwheel (RT)
+- Griddy (RT)
+- Dance Monke (RT)
+- Spaz Monke (B)
+- Spider Monke (B)
+- Glitch Monke (B)
+- Wobbly Monke (B)
+- Helicopter Monke (RT)
+- Ascend Monke (RT)
+- TP To (Cycle Map)
+- Teleport To Map
 - Teleport Gun
+- Rig Gun
 - Chase Gun
+- Chase All
 - Orbit Gun
+- Orbit All
 - Jumpscare Gun
+- Jumpscare All
 - Copy Player Gun
+- Copy All
 - Mirror Player Gun
+- Mirror All
 - Backshot Player Gun
-- BJ Player Gun
+- Backshot All
+- Gawk Gawk Gun
+- Gawk Gawk All
 - Piggyback Player Gun
-- Stare at Player Gun
+- Piggyback All
+- Only Visible To Player Gun
+- Only Invisible To Player Gun
 
 Movement Mods:
-- Flight Speed (Adjustable)
-- Flight (B)
+- Fly Speed (Adjustable)
+- Fly (A)
+- Fly + Noclip (A)
 - Platform Type (Cycle)
 - Use Triggers For Platforms
 - Platforms (RG/LG)
@@ -106,21 +160,18 @@ Movement Mods:
 - Noclip (RT)
 - Wall Walk Strength (Adjustable)
 - Wall Walk (RG/LG)
-- Spider Walk (RG/LG)
 - Pull Mod
 - Iron Monke (RG/LG)
-- Accel Flight (B)
+- Accel Fly (A)
 - Up And Down (LT/RT)
 - Low Gravity
 - Zero Gravity
 - High Gravity
 - Reverse Gravity
 - WASD Movement
-- Freecam (LJ)
-- Funny Run (RG/LG)
-- Flick Jump (B)
+- Joystick Fly
 - Uncap Max Velocity
-- Swim Speed Boost
+- Fast Swim Speed
 - Dash Monke (A)
 - Checkpoint (RG/RT)
 - Slide Control
@@ -129,19 +180,199 @@ Movement Mods:
 - No Tag Freeze
 - Force Tag Freeze
 
+Visual Mods:
+- Nametag Type (Cycle)
+- Name Tags
+- Team Checked ESP
+- Unfilled Box ESP
+- Unfilled Box ESP 2D
+- Filled Box ESP
+- Filled Box ESP 2D
+- Tracer Position (Adjustable)
+- Tracers ESP
+- Prediction ESP
+- Bone ESP
+- Skeleton ESP
+- Chams ESP
+- Trails ESP
+- Beacons ESP
+- FPC FOV (Adjustable)
+- First Person Cam (PC)
+- Free Cam (X)
+- VR 3rd Person (X)
+- Drunk Cam (X)
+- Spectate Gun
+- Orbit Cam (X)
+- VR 3rd Person In Front (X)
+- Upside Down Cam (X)
+- Monke Sense
+- Mute Monke Sense
+- FPS Boost
+- X-Ray
+- Toggle Fog
+- Fuck Colors
+- Acid Trip
+- Trippy Monkes
+- Shiny Monkes
+- Shiny Self
+- Ghost Rig
+- 90 FPS
+- 72 FPS
+- 60 FPS
+- 45 FPS
+- 30 FPS
+- 15 FPS
+- Uncap FPS
+
+Audio Mods:
+Soundboard:
+- Enter Soundboard
+- Load Soundboard
+- Disable All Sounds
+- Loop Sounds
+- Sound Input (Cycle Controller Bind)
+
+SFX (Sounds have to be loaded):
+- Darius Gyat Gyat Gyat
+- UwU
+- Vine Boom
+- Fart
+- Diarrhea
+- GET OUT!
+- SHUT UP!
+- Nick Eh 30 Intro
+- F You Kid Your Adopted
+- Locked In Alien
+- Locked In Ninja
+- Do Me A Favor Stfu
+- Meme Spam
+- YOU STUPID NI-
+- La Passion
+- Its Darius Day
+- SIGMA SIGMA BOY
+- YIPPEE!
+- AMONG US!
+- Pluh!
+- Cinematic Boom
+- Rising Tension
+- Base Drop
+- Trumpet Fail
+- We Do Not Care
+- YAMATE KUDASAI!
+- OG Roblox OOF!
+- Roblox GAH!
+- OG Minecraft OUH!
+- Garrys Mod Death
+- Ah Shi Here We Go Again
+- SLAP
+- Short AUGH
+- Long AUGH
+- TACTICAL NUKE INCOMING!
+- Bomb Has Been Planted
+- GIGGIDY GOO
+- LETS GO GAMBLING (LOSS)
+- LETS GO GAMBLING (WON)
+- IVE PLAYED THESE GAMES BEFORE!
+- The Prowler
+- The Spot Theme
+- Audience Clap
+- Wanna Break From The Ads?
+- Pistol Shot
+- Shotgun Shot
+- Darius Stimming
+- Bonk
+- HeHe Boy
+- Windows USB
+- Windows Error
+- Metal Pipe Falling
+- Rizz
+- FBI OPEN UP!
+- Emotional Damage!
+- Taco Bell
+- Ben Yes
+- Ben No
+- Ben
+- Ben Ugh
+- Ben Laugh
+- Bing Chilling
+- HE HE HE HA!
+- HOG RIDER!
+
+Trolling (Sounds have to be loaded):
+- Daisy Bell
+- RUN RUN RUN
+- PBBV
+- WARNING
+- SCP 096
+- Tiptoe
+- Banshee
+- Freddy Scream
+- Balloon Boy Hello
+- Balloon Boy Hi
+- Balloon Boy Laugh
+- Sonic.exe Laugh
+- Scream
+
+Songs (Sounds have to be loaded):
+- Von Anti Piracy
+- Celebrate Our Differences
+- Cave Wave
+- Crab Rave
+- Fly Me To The Moon
+- Rick Roll
+- Backrooms Song
+- Pink Soldiers
+- Squid Game Round & Round
+
+Microphone:
+- Reload Microphone
+- Hear Self
+- High Quality Microphone
+- Low Quality Microphone
+- Reverb Microphone
+- Loud Microphone
+- Mute Microphone
+- High Pitch Microphone
+- Low Pitch Microphone
+- Echo Microphone
+- Static Microphone
+- Muffled Microphone
+
+Sound Spams:
+- Random Sound Spam (RT)
+- Annoying Sound Spam (RT)
+- Boop Player
+- Gong Player
+- Slap Player
+- Jman HELLO! Sound Spam (RT)
+- Jman Slap Sound Spam (RT)
+- Jman Okay Sound Spam (RT)
+- Glass Sound Spam (RT)
+- Metal Sound Spam (RT)
+- Pop Sound Spam (RT)
+- Squeaky Sound Spam (RT)
+- Crystal Sound Spam (RT)
+- Turkey Sound Spam (RT)
+- Frog Sound Spam (RT)
+- AK-47 Sound Spam (RT)
+- Wolf Sound Spam (RT)
+- Cat Sound Spam (RT)
+- Bee Sound Spam (RT)
+
 Gamemode Mods:
 Tag:
 - Tag All (RT)
 - Tag Gun
 - Flick Tag (RT)
-- Tag Aura (RT)
+- Tag Aura
 - Tag Self
-- Un-Tag Self
+- Try Un-Tag Self
 - Anti Tag
 - No Tag On Join
 - No Tag Limit
 - Untag All (M)
 - Untag Gun (M)
+- Tag Lag (M)
 
 Guardian:
 - Auto Guardian
@@ -177,109 +408,65 @@ Paintbrawl:
 - Paintbrawl Revive Gun (M)
 - Paintbrawl Revive Self (M)
 
-Visual Mods:
-- Nametag Type (Cycle)
-- Name Tags
-- Team Checked ESP
-- Unfilled Box ESP
-- Unfilled Box ESP 2D
-- Filled Box ESP
-- Filled Box ESP 2D
-- Tracer Position (Adjustable)
-- Tracers ESP
-- Prediction ESP
-- Bone ESP
-- Skeleton ESP
-- Chams ESP
-- Body Wireframe ESP
-- Trails ESP
-- Beacons ESP
-- FPC FOV (Adjustable)
-- First Person Camera
-- FPS Boost
-- X-Ray
-- Fuck Colors
-- Acid Trip
-- Trippy Monkes
-- Shiny Monkes
-- Shiny Self
-- 90 FPS
-- 72 FPS
-- 60 FPS
-- 45 FPS
-- 30 FPS
-- 15 FPS
-- Uncap FPS
+Prop Hunt:
+- Prop (Cycle)
+- Become Prop
+- Skip Seeker Blindfold
+- Hiders ESP
+- Seekers ESP
+- Prop Tag All
+- Force Round Start (M)
+- Force Round End (M)
+- Spam Gamemode (M)
+- Become Seeker (M)
+- Become Hider (M)
+- Collapse Boundary (M)
 
-Audio Mods:
-Soundboard:
-- Enter Soundboard
-- Load Soundboard
-- Disable All Sounds
-- Loop Sounds
-- Sound Input (Cycle Controller Bind)
-- SFX (Sounds have to be loaded)
-- Trolling (Sounds have to be loaded)
-- Songs (Sounds have to be loaded)
+Slingshot Island:
+- Float Gun (Blaster)
+- Complete Quests
+- Complete & Claim Quests
+- Add TechPoints
+- Give All Resources
+- Unlock All Gadgets
+- Unlock Full Tree
+- No Blaster Cooldown
+- Max Charge
+- Fast Charge
+- No Cooldown (Dash)
+- Clear Exclusion Zones
 
-Microphone:
-- Reload Microphone
-- Hear Self
-- High Quality Microphone
-- Low Quality Microphone
-- Loud Microphone
-- Mute Microphone
-- High Pitch Microphone
-- Low Pitch Microphone
-- Echo Microphone
-- Static Microphone
-- Muffled Microphone
-
-Sound Spams:
-- Random Sound Spam (RT)
-- Annoying Sound Spam (RT)
-- Boop Player
-- Gong Player
-- Slap Player
-- Jman HELLO! Sound Spam (RT)
-- Jman Slap Sound Spam (RT)
-- Jman Okay Sound Spam (RT)
-- Glass Sound Spam (RT)
-- Metal Sound Spam (RT)
-- Pop Sound Spam (RT)
-- Squeaky Sound Spam (RT)
-- Crystal Sound Spam (RT)
-- Turkey Sound Spam (RT)
-- Frog Sound Spam (RT)
-- AK-47 Sound Spam (RT)
-- Wolf Sound Spam (RT)
-- Cat Sound Spam (RT)
-- Bee Sound Spam (RT)
+Projectile Mods:
+- Snowball Effect Gun
+- Touch to Snowball Effect
+- Get Touched to Snowball Effect
+- Anti Knockback
+- Always Big Growing Snowballs
 
 Fun Mods:
 General:
-- Displacer Cannon
-- Jet Pack
-- Web Shooters (RG/LG)
-- Web Shooters v2 (RG/LG)
-- Try Cosmetics Anywhere
-- Draw Mod (RG/LG)
+- Jet Pack (Networked)
+- Grappling Hook (RT/LT)
+- Displacer Cannon (Networked)
+- Web Shooters (RT/LT)
 - Place Bomb (RG/RT)
 - Punch Mod
+- Draw Mod (RG/LG)
+- Disable Rain
+- Rain Mode
+- Toggle Snow
+- Time Of Day (Adjustable)
+- Disable Wind Barriers
+- Max Quest Score
+- Add Barrel To Cart
+- Spam Bracelet (G)
+- Remove Bracelets
+- Try-On Cosmetics Anywhere
 - Unlock All Cosmetics
-- Unlock All Gadgets
-- Complete All Quests
 - Loud Hand Taps
 - Silent Hand Taps
 - Instant Hand Taps
-- Change Time
-- Disable Rain
-- Rain Mode
 - Mute Elevator
-- Disable Wind Barriers
-- Spam Bracelet (G)
-- Remove Bracelets
-- Max Quest Score
 
 Water:
 - Solid Water
@@ -296,42 +483,22 @@ Glider:
 - Orbit Gliders (RT)
 - Spaz Gliders (RT)
 - Glider Gun
+- Glider Aura
 - Fast Gliders
 - Slowmo Gliders
 - Destroy Gliders
 - Respawn Gliders
-- Glider Annoy All (RT)
-- Glider Annoy Gun
-
-Entity:
-- Become Bug (A)
-- Grab Bug (RG)
-- Bug Gun
-- Bug Orbit
-- Become Bat (A)
-- Grab Bat (RG)
-- Bat Gun
-- Bat Orbit
 
 Hoverboard:
-- Black Screen Gun
-- Strobe Screen Gun
-- Rainbow Screen Gun
 - Spawn Hoverboard
 - Shoot Hoverboards (RG)
 - Orbit Hoverboards
+- Hoverboard Aura
 - Hoverboard Gun
-
-Projectile Mods:
-- Snowball Effect Gun
-- Touch to Snowball Effect
-- Projectile Size (Adjustable)
-- Projectile Speed (Adjustable)
-- Anti Knockback
-- Spam Projectiles
-- Shoot Projectiles
-- Spread Projectiles
-- Projectile Gun
+- Spaz Hoverboard
+- Rainbow Hoverboard
+- Strobe Hoverboard
+- Become Hoverboard
 
 Macros:
 - Open Macros Folder
@@ -344,24 +511,47 @@ Presets:
 - Saved Presets
 
 Overpowered Mods:
-- Kick Master
-- Kick Master Gun
-- Instant Freeze All
 - Lag Type (Adjustable)
 - Lag All (RT)
 - Lag Gun
 - Touch To Lag
 - Get Touched To Lag
+- Lag Aura
+- Stump Kick To Specific Room
+- Fast Stump Kick
+- Stump Kick Gun
+- Stump Kick All
+- Destroy Player Gun
+- Destroy All
+- Deafen Gun
+- Deafen All
+- Touch To Deafen
+- Get Touched To Deafen
+- Earrape Gun
+- Earrape All
+- Barrel Fling Gun
+- Touch To Barrel Fling
+- Get Touched To Barrel Fling
+- Force Grab (RG)
+- Force Grab Gun
 - Fling On Grab
 - Metro Crash On Grab
 - Fling To Point On Grab
-- Crash Modders On Grab
-- Deafen All
-- Deafen Gun
-- Earrape
-- Barrel Fling Gun
-- Touch To Barrel Fling
-- Party Kick All
+- Try Crash Modders On Grab
+- Splash Annoy Gun
+- Splash Annoy All (RT)
+- Seizure Screen Gun
+- Seizure Screen All (RT)
+- Strobe Screen Gun
+- Strobe Screen All (RT)
+- Flash Screen Gun
+- Flash Screen All (RT)
+- Black Screen Gun
+- Black Screen All (RT)
+- White Screen Gun
+- White Screen All (RT)
+- Glider Annoy All (RT)
+- Glider Annoy Gun
 - Lock Room
 - Unlock Room
 - Enable Event (M)
@@ -370,14 +560,19 @@ Overpowered Mods:
 - Infinite Event (M)
 - Slow All (M)
 - Slow Gun (M)
+- Slow Aura (M)
+- Slow On Touch (M)
 - Vibrate All (M)
 - Vibrate Gun (M)
-- Material All (M)
-- Material Gun (M)
+- Vibrate Aura (M)
+- Vibrate On Touch (M)
+- Mat Spam All (M)
+- Mat Spam Gun (M)
+- Touch To Mat Spam (M)
+- Get Touched To Mat Spam (M)
 - Spaz All Targets (M)
-
-Menu Navigation Features:
-- Enabled Mods (View all currently active mods)
-- Favorited Mods (LG To Favorite - Quick access to favorite mods)
-- Players In Room (Player-specific actions)
-- Search Mods (Search functionality for finding features quickly)
+- Tagged Sound (M/RT)
+- Round End Sound (M/RT)
+- Bonk Sound (M/RT)
+- Count Sound (M/RT)
+- Brawl Sound (M/RT)
