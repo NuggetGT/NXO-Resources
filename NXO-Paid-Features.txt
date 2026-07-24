@@ -1,6 +1,6 @@
 NXO Paid Features List
-Latest Version: v5.2
-Categories: 16 | Total Features: 500+
+Latest Version: v6.0
+Categories: 17 | Total Features: 550+
 
 Menu Navigation Features:
 - Enabled Mods (View all currently active mods)
@@ -16,11 +16,13 @@ Menu Settings:
 - Panic (X)
 - Disable All Mods
 - Right Hand Menu
-- Mods Array List
 - Open & Close Sounds
 - Dynamic Animations
+- Menu Smoothing
+- In-Game Array List
+- Classic Buttons
 - Menu Follows When Searching
-- Overlap Custom Click Sounds
+- Overlapping Custom Click Sound
 - Custom Board Colors
 - Menu Font (Cycle)
 - Click Sound (Cycle)
@@ -49,6 +51,7 @@ Gun Settings:
 - Gun Animation (Cycle)
 - Big Gun Pointer
 - Gun Line
+- Left Hand Gun
 
 Safety Mods:
 - Anti Report Radius (Adjustable)
@@ -65,7 +68,9 @@ Safety Mods:
 - Ranked Badge Spoof
 - Bypass Mod Checkers
 - Bypass Automod
+- Anti Stump Kick
 - Anti Moderator
+- Anti Grab App Quit
 - Anti Cheat Notifications
 - Accept TOS
 - Bypass K-ID
@@ -80,6 +85,8 @@ Room Mods:
 - Create Public
 - Create Private
 - Join Specific Room
+- Unlock VIM
+- Reauthenticate
 - Disable Network Triggers
 - Grab All IDs
 - Grab Own ID
@@ -129,6 +136,7 @@ VRRig Mods:
 - Rig Gun
 - Chase Gun
 - Chase All
+- Fly Towards Gun
 - Orbit Gun
 - Orbit All
 - Jumpscare Gun
@@ -437,11 +445,18 @@ Slingshot Island:
 - Clear Exclusion Zones
 
 Projectile Mods:
-- Snowball Effect Gun
+- Snowball Fling Gun
+- Snowball Fling All
+- Touch To Snowball Fling
+- Get Touched To Snowball Fling
+- Shoot Big Snowballs (RG)
+- Shoot Big Snowballs Gun
 - Touch to Snowball Effect
 - Get Touched to Snowball Effect
 - Anti Knockback
 - Always Big Growing Snowballs
+- Snowball Effect Gun
+- Snowball Effect All (RT)
 
 Fun Mods:
 General:
@@ -458,11 +473,8 @@ General:
 - Time Of Day (Adjustable)
 - Disable Wind Barriers
 - Max Quest Score
-- Add Barrel To Cart
 - Spam Bracelet (G)
 - Remove Bracelets
-- Try-On Cosmetics Anywhere
-- Unlock All Cosmetics
 - Loud Hand Taps
 - Silent Hand Taps
 - Instant Hand Taps
@@ -510,6 +522,33 @@ Presets:
 - Save Preset
 - Saved Presets
 
+Nextbots:
+- Nextbot Speed (Adjustable)
+- Behaviour (Adjustable)
+- Custom Nextbots
+- Crash On Jumpscare
+- Clear Nextbots
+- Sanic
+- Obunga
+- Angry Munci
+- Selene Delgado
+- Aheno
+- Yoshie
+- This Man
+- IShowSpeed
+- Jungler
+- PBJ Banana
+- Imposter
+- Geoffrey
+- The Boiled One
+- Afton
+- Trollge
+- Glimpse
+- Happy
+- Nerd Emoji
+- Firebrand
+- Pinhead
+
 Overpowered Mods:
 - Lag Type (Adjustable)
 - Lag All (RT)
@@ -529,15 +568,21 @@ Overpowered Mods:
 - Get Touched To Deafen
 - Earrape Gun
 - Earrape All
+- Add Barrel To Cart
 - Barrel Fling Gun
+- Barrel Fling All
 - Touch To Barrel Fling
 - Get Touched To Barrel Fling
-- Force Grab (RG)
-- Force Grab Gun
-- Fling On Grab
-- Metro Crash On Grab
-- Fling To Point On Grab
-- Try Crash Modders On Grab
+- Grab Fling Gun
+- Grab Fling All
+- Grab Crash Gun
+- Grab Crash All
+- Grab Metro Crash Gun
+- Grab Metro Crash All
+- Grab Bring Gun
+- Grab Bring All
+- Grab Break Movement Gun
+- Grab Break Movement All
 - Splash Annoy Gun
 - Splash Annoy All (RT)
 - Seizure Screen Gun
@@ -554,6 +599,8 @@ Overpowered Mods:
 - Glider Annoy Gun
 - Lock Room
 - Unlock Room
+- Try-On Cosmetics Anywhere
+- SS CosmetiX (WIP/City)
 - Enable Event (M)
 - Disable Event (M)
 - Spam Event (M)
