@@ -1,5 +1,5 @@
 NXO Paid Features List
-Latest Version: v6.0
+Latest Version: v6.1
 Categories: 17 | Total Features: 550+
 
 Menu Navigation Features:
@@ -49,9 +49,21 @@ Notification Settings:
 
 Gun Settings:
 - Gun Animation (Cycle)
-- Big Gun Pointer
+- Wiggle Intensity (Adjustable)
+- Wiggle Speed (Adjustable)
+- Gun Idle Color (Adjustable)
+- Gun Fire Color (Adjustable)
+- Gun Hover Color (Adjustable)
+- Gun Lock Color (Adjustable)
+- Gun Pointer Size (Adjustable)
+- Gun Line Thickness (Adjustable)
 - Gun Line
 - Left Hand Gun
+
+Presets:
+- Open Presets Folder
+- Save Preset
+- Saved Presets
 
 Safety Mods:
 - Anti Report Radius (Adjustable)
@@ -166,6 +178,9 @@ Movement Mods:
 - Use Grip For Speedboost
 - Speed Boost
 - Noclip (RT)
+- TP To (Cycle Map)
+- Teleport To Map
+- Teleport Gun
 - Wall Walk Strength (Adjustable)
 - Wall Walk (RG/LG)
 - Pull Mod
@@ -182,6 +197,7 @@ Movement Mods:
 - Fast Swim Speed
 - Dash Monke (A)
 - Checkpoint (RG/RT)
+- Wall Climber (RG/LG)
 - Slide Control
 - Anti Slip
 - Slippy Hands
@@ -191,6 +207,7 @@ Movement Mods:
 Visual Mods:
 - Nametag Type (Cycle)
 - Name Tags
+- NXO Nametags
 - Team Checked ESP
 - Unfilled Box ESP
 - Unfilled Box ESP 2D
@@ -416,20 +433,6 @@ Paintbrawl:
 - Paintbrawl Revive Gun (M)
 - Paintbrawl Revive Self (M)
 
-Prop Hunt:
-- Prop (Cycle)
-- Become Prop
-- Skip Seeker Blindfold
-- Hiders ESP
-- Seekers ESP
-- Prop Tag All
-- Force Round Start (M)
-- Force Round End (M)
-- Spam Gamemode (M)
-- Become Seeker (M)
-- Become Hider (M)
-- Collapse Boundary (M)
-
 Slingshot Island:
 - Float Gun (Blaster)
 - Complete Quests
@@ -443,6 +446,20 @@ Slingshot Island:
 - Fast Charge
 - No Cooldown (Dash)
 - Clear Exclusion Zones
+
+Prop Hunt:
+- Prop (Cycle)
+- Become Prop
+- Skip Seeker Blindfold
+- Hiders ESP
+- Seekers ESP
+- Prop Tag All
+- Force Round Start (M)
+- Force Round End (M)
+- Spam Gamemode (M)
+- Become Seeker (M)
+- Become Hider (M)
+- Collapse Boundary (M)
 
 Projectile Mods:
 - Snowball Fling Gun
@@ -460,6 +477,7 @@ Projectile Mods:
 
 Fun Mods:
 General:
+- Add Cosmetic To Cart
 - Jet Pack (Networked)
 - Grappling Hook (RT/LT)
 - Displacer Cannon (Networked)
@@ -516,11 +534,6 @@ Macros:
 - Open Macros Folder
 - Record Macro (A)
 - Recorded Macros
-
-Presets:
-- Open Presets Folder
-- Save Preset
-- Saved Presets
 
 Nextbots:
 - Nextbot Speed (Adjustable)
